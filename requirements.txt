@@ -6,3 +6,5 @@ chromadb
 pypdf
 gradio
 python-dotenv
+langchain-huggingface
+sentence-transformers
